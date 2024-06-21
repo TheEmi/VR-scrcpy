@@ -1,7 +1,7 @@
 # VR-scrcpy
 Small tauri app to manage scrcpy and launching apps on multiple android based VR (oculus 2 and 3)
 <br>
-# How to isntall
+# How to install
 Download the exe, add a src folder next to it with the text files for ip_list.txt and processes.txt.
 <br>
 Make user you have scrcpy and adb in ENV variables. 

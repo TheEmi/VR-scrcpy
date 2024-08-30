@@ -1,6 +1,6 @@
 # VR-scrcpy
 Small tauri app to manage scrcpy and launching apps on multiple android based VR (oculus 2 and 3)
-<img width="499" alt="image" src="https://github.com/user-attachments/assets/73d49a6b-0d9a-420e-8506-431a4e3a8dc8">
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/73d49a6b-0d9a-420e-8506-431a4e3a8dc8"/>
 
 <br>
 # How to install

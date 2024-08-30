@@ -4,7 +4,7 @@ Small tauri app to manage scrcpy and launching apps on multiple android based VR
 # How to install
 Download the exe, add a src folder next to it with the text files for ip_list.txt and processes.txt.
 <br>
-Make user you have scrcpy and adb in ENV variables. 
+Make user you have scrcpy and adb in ENV variables or the .exe of them in the same folder as the app. 
 Launch app.
 # How to use
 1. Start ADB server by clicking START and kill-server by clicking STOP

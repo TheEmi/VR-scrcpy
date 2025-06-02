@@ -75,7 +75,9 @@ async fn scrcpy_device(adress: String) -> Result<String, String>{
     .arg(adress)
     .arg("-b5M")
     .arg("--crop")
-    .arg("1600:900:2017:510")
+    .arg("1730:974:1880:450")
+    .arg("--max-fps")
+    .arg("30")
     .arg("--no-audio")
     .arg(together);
     #[cfg(target_os = "windows")]
